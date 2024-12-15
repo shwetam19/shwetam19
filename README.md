@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @shwetam19
 
 - 👀 I’m interested in Data Science, Machine Learning, and AI.
-- 🌱 I’m currently learning advanced machine learning techniques, deep learning, and data engineering.
+- 🌱 I’m currently learning machine learning techniques, deep learning, and data engineering.
 - 💞️ I’m looking to collaborate on data-driven projects, machine learning models, and AI research.
 - ⚡ Fun fact: I'm a firm believer in automating anything that requires more than two clicks—why work hard when you can get the machine to do it for you? 😉
 
