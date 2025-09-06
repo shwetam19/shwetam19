@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Shweta Maurya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Cyber+Security+%7C+AI+%7C+ML+Specialist;Generative+AI+Enthusiast;Technical+Writer+%7C+Researcher;Always+building+cool+stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%7C+ML+Specialist;Generative+AI+Enthusiast;Technical+Writer+%7C+Researcher;Always+building+cool+stuff!" alt="Typing SVG" />
 </div>
 
 ---
